@@ -217,6 +217,7 @@ export class PremiereProBridge implements PremiereProTransport {
     const commonPaths = [
       '/Applications/Adobe Premiere Pro 2024/Adobe Premiere Pro 2024.app',
       '/Applications/Adobe Premiere Pro 2023/Adobe Premiere Pro 2023.app',
+      'D:\\Adobe\\Adobe Premiere Pro 2024\\Adobe Premiere Pro.exe',
       'C:\\Program Files\\Adobe\\Adobe Premiere Pro 2024\\Adobe Premiere Pro.exe',
       'C:\\Program Files\\Adobe\\Adobe Premiere Pro 2023\\Adobe Premiere Pro.exe'
     ];
